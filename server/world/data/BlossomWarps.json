@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spawn",
+    "owner": "fe19544c-635e-390e-97b9-77e2c17bc318",
+    "x": 19.5,
+    "y": 70.0,
+    "z": 4.5,
+    "yaw": 65.25,
+    "pitch": -17.400002,
+    "world": "minecraft:overworld",
+    "global": true
+  }
+]

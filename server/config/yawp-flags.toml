@@ -1,0 +1,5 @@
+["YetAnotherWorldProtector mod flag configuration"]
+	#Entities included/protected by the break block flag. Includes entities like armor stands and pictures by default
+	break_flag_entities = ["minecraft:armor_stand", "minecraft:painting", "minecraft:item_frame", "minecraft:glow_item_frame", "minecraft:leash_knot"]
+	#Entity tags included/protected by the break block flag.
+	break_flag_entity_tags = []

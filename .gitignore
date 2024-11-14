@@ -1,0 +1,4 @@
+*.pyc
+discord.py/secret.py
+server/config/discord-mc-chat-backup.json
+server/config/discord-mc-chat.json
